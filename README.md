@@ -97,6 +97,7 @@ Obs. você pode deixar esse rodando no terminal
 
 ```bash
 # Agora Acesse essa pasta 
+$ cd ..
 $ cd main-musics-client
 
 # Main-musics-client
