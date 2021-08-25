@@ -89,7 +89,7 @@ $ yarn start
 
 # O servidor inciará na porta:3333 - http://localhost:3333
 
-Obs. você pode deixar esse rodando no terminal
+Obs. você pode deixar esse rodando no terminal tipo cmd powershel
 ```
 <h2>Depois</h2>
 
