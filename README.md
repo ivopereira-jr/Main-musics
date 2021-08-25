@@ -35,7 +35,7 @@
 
 </br>
 
-##  1. <a name='Sobreoprojeto'></a>ℹ️ Sobre o projeto
+##  <a name='Sobreoprojeto'></a>ℹ️ Sobre o projeto
 
 O projeto e um desafio que recebi para realizar utilizando ReactJs ou ReactNative for web,
 Redux,
@@ -46,14 +46,14 @@ Obs. Não fiz a paginação em breve vou ver se implemento
 </br>
 
 
-###  1.1. <a name='Features'></a>Features
+###  <a name='Features'></a>Features
 
 - [x] Busca de musicas
 - [x] Favoritos
 
 </br>
    
-##  2. <a name='Tecnologias'></a>🛠️ Tecnologias 
+##  <a name='Tecnologias'></a>🛠️ Tecnologias 
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -63,13 +63,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 </br>
 
-###  2.1. <a name='Pr-requisitos'></a> Pré-requisitos
+###  <a name='Pr-requisitos'></a> Pré-requisitos
 
 Antes de começar você vai precisar ter o <a href="https://nodejs.org/en/">Nodejs</a> ou instalar ele caso não tenha
 
 </br>
 
-##  3. <a name='Comoexecutaroprojeto'></a> ⚙ Como executar o projeto
+##  <a name='Comoexecutaroprojeto'></a> ⚙ Como executar o projeto
 
 ```bash
 # Clone este repositório
@@ -114,7 +114,7 @@ $ yarn start
 
 </br>
 
-##  4. <a name='Licena'></a> 📝 Licença
+##  <a name='Licena'></a> 📝 Licença
 
 Este projeto esta sobe a [Licença MIT](./LICENSE).
 
